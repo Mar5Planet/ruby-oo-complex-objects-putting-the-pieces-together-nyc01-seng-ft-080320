@@ -13,6 +13,6 @@ class Shoe
   
   def cobble
     puts "shoe has been repaired"
-    shoe.coniditon = "new"
+    condition = "new"
   end 
 end 
