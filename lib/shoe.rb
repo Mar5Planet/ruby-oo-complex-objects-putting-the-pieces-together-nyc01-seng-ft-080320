@@ -13,6 +13,6 @@ class Shoe
   
   def cobble
     puts "shoe has been repaired"
-    @coniditon = "new"
+    shoe.coniditon = "new"
   end 
 end 
