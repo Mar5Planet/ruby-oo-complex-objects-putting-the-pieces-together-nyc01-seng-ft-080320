@@ -12,5 +12,7 @@ class Shoe
   attr_accessor :condition
   
   def cobble
+    puts "shoe has been repaired"
+    @coniditon = "new"
   end 
 end 
